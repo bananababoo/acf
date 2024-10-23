@@ -35,6 +35,8 @@
         <junit.version>5.8.2</junit.version>
         <junit.platform.version>1.4.0</junit.platform.version>
         <mockito.version>4.1.0</mockito.version>
+        <maven.compiler.source>1.21</maven.compiler.source>
+        <maven.compiler.target>1.21</maven.compiler.target>
     </properties>
 
     <distributionManagement>
